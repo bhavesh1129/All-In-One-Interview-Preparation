@@ -11,7 +11,7 @@
 
 
 
-**🧑‍💻Notes Credits: Vrukshali-26**
+**🧑‍💻Notes Credits: Vrukshali**
 <!-- <details>
 <summary>30 Days of Google Cloud by Google</summary>
 <br>
