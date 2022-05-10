@@ -6,9 +6,9 @@
 | 2 | Flow of Program | https://bit.ly/3vSkHmk |
 | 3 | Intro to Java Programming Language | https://bit.ly/3Fc4Gfk |
 | 4 | More Concepts in Java | https://bit.ly/3Fvtyz2 |
-| 5 |Switch Cases in Java | https://bit.ly/38glmpX |
+| 5 |Switch Cases | https://bit.ly/38glmpX |
 | 6 | Functions & Methods in Java | https://bit.ly/3FtSOpb |
-
+| 7 | Arrays & ArrayLists | https://bit.ly/3kVTH0h |
 
 
 **🧑‍💻Notes Credits: Vrukshali**
