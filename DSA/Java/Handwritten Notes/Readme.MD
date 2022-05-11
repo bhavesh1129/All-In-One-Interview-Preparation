@@ -9,6 +9,7 @@
 | 5 |Switch Cases | https://bit.ly/38glmpX |
 | 6 | Functions & Methods in Java | https://bit.ly/3FtSOpb |
 | 7 | Arrays & ArrayLists | https://bit.ly/3kVTH0h |
+| 8 | Linear Search | https://bit.ly/37zcN9r |
 
 
 **🧑‍💻Notes Credits: Vrukshali**
