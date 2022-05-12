@@ -10,7 +10,7 @@
 | 6 | Functions & Methods in Java | https://bit.ly/3FtSOpb |
 | 7 | Arrays & ArrayLists | https://bit.ly/3kVTH0h |
 | 8 | Linear Search | https://bit.ly/37zcN9r |
-
+| 8 | Binary Search | https://bit.ly/39VMMlC |
 
 **🧑‍💻Notes Credits: Vrukshali**
 <!-- <details>
