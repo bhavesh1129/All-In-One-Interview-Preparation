@@ -12,6 +12,7 @@
 | 8 | Linear Search | https://bit.ly/37zcN9r |
 | 9 | Binary Search | https://bit.ly/39VMMlC |
 | 10 | Binary Search in 2D Arrays | https://bit.ly/3wqHPbT |
+| 11 | Bubble Sort | https://bit.ly/3szjD64 |
 
 **🧑‍💻Notes Credits: Vrukshali**
 <!-- <details>
