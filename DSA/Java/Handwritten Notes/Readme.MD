@@ -14,6 +14,6 @@
 | 10 | Binary Search in 2D Arrays | https://bit.ly/3wqHPbT |
 | 11 | Bubble Sort | https://bit.ly/3szjD64 |
 | 12 | Selection Sort | https://bit.ly/39V75iZ |
-
+| 12 | Insertion Sort | https://bit.ly/38oqAjL |
 
 **🧑‍💻Notes Credits: Vrukshali**
