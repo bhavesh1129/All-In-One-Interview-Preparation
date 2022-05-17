@@ -15,5 +15,6 @@
 | 11 | Bubble Sort | https://bit.ly/3szjD64 |
 | 12 | Selection Sort | https://bit.ly/39V75iZ |
 | 13 | Insertion Sort | https://bit.ly/38oqAjL |
+| 14 | Cyclic Sort | https://bit.ly/3yIPpl4 |
 
 **🧑‍💻Notes Credits: Vrukshali**
