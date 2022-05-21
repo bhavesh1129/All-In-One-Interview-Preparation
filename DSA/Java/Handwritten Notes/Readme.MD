@@ -18,6 +18,7 @@
 | 14 | Cyclic Sort | https://bit.ly/3yIPpl4 |
 | 15 | String & StringBuilder in Java | https://bit.ly/39uXYFw |
 | 16 | Recursion | https://bit.ly/3wEadrc |
-| 17 | Time & Complexity  | https://bit.ly/3wwBuvK |
+| 17 | Time & Complexity | https://bit.ly/3wwBuvK |
+| 18 | Bit Manipulation | https://bit.ly/3MCz6u6 |
 
 **🧑‍💻Notes Credits: Vrukshali**
