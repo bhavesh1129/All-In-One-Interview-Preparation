@@ -21,5 +21,6 @@
 | 17 | Time & Complexity | https://bit.ly/3wwBuvK |
 | 18 | Bit Manipulation | https://bit.ly/3MCz6u6 |
 | 19 | Linkedlist | https://bit.ly/3NpLKNa |
+| 20 | Stacks | https://bit.ly/3Pz4nQH |
 
-**🧑‍💻Notes Credits: Vrukshali**
+**🧑‍💻Notes Credits: Vrukshali, Karan Karthik**
