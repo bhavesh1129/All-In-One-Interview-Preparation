@@ -22,5 +22,6 @@
 | 18 | Bit Manipulation | https://bit.ly/3MCz6u6 |
 | 19 | Linkedlist | https://bit.ly/3NpLKNa |
 | 20 | Stacks | https://bit.ly/3Pz4nQH |
+| 21 | Dynamic Programming | https://bit.ly/3wH3e2a |
 
 **🧑‍💻Notes Credits: Vrukshali, Karan Karthik**
