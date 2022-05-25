@@ -23,5 +23,6 @@
 | 19 | Linkedlist | https://bit.ly/3NpLKNa |
 | 20 | Stacks | https://bit.ly/3Pz4nQH |
 | 21 | Dynamic Programming | https://bit.ly/3wH3e2a |
+| 22 | Trees | https://bit.ly/3NqyxDQ |
 
 **🧑‍💻Notes Credits: Vrukshali, Karan Karthik**
