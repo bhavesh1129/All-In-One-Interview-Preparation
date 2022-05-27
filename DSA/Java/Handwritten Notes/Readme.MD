@@ -25,5 +25,6 @@
 | 21 | Dynamic Programming | https://bit.ly/3wH3e2a |
 | 22 | Trees | https://bit.ly/3NqyxDQ |
 | 23 | Hashing | https://bit.ly/3z3PBeO |
+| 24 | Graphs | https://bit.ly/3PNUWgo |
 
 **🧑‍💻Notes Credits: Vrukshali, Karan Karthik, LoveToCode**
