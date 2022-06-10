@@ -4,4 +4,4 @@
 | :---: | :---: | :-: |
 | 1 | OOPs in JAVA | https://bit.ly/3aExnGE |
 | 2 | OOPs in C++ | @ |
-| 3 | Interview Questions | @ |
+| 3 | Interview Questions | https://bit.ly/3Oo2Ag3 |
