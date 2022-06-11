@@ -3,5 +3,5 @@
 | Parts | Topic | Links |
 | :---: | :---: | :-: |
 | 1 | OOPs in JAVA | https://bit.ly/3aExnGE |
-| 2 | OOPs in C++ | @ |
+| 2 | OOPs in C++ | https://bit.ly/39ftMi9 |
 | 3 | Interview Questions | https://bit.ly/3Oo2Ag3 |
