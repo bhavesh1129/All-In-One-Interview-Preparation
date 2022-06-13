@@ -2,7 +2,7 @@
 
 | Parts | Topic | Links |
 | :---: | :---: | :-: |
-| 1 | Notes in C++| https://bit.ly/3zvGTGB |
+| 1 | Notes in C++| https://bit.ly/3txwK8s |
 | 2 | Interview Questions in C++ | https://bit.ly/3tyK1gV |
 
 
