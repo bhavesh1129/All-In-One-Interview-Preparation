@@ -2,8 +2,8 @@
 
 | Parts | Topic | Links |
 | :---: | :---: | :-: |
-| 1 | Intro to Programming Language | https://bit.ly/3s54LMF |
-| 2 | Flow of Program | https://bit.ly/3vSkHmk |
+| 1 | Notes in C++| https://bit.ly/3zvGTGB |
+| 2 | Interview Questions in C++ | https://bit.ly/3tyK1gV |
 
 
 
